@@ -1,1 +1,1 @@
-Изменение из feature1.
+Изменение из feature1 и feature2.
